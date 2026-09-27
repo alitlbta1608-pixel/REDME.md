@@ -1,7 +1,7 @@
 # REDME.md
 <h2> Ali Taleb</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=50&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Ali+Taleb;web+site+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=50&pause=300&color=00C8FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Ali+Taleb;web+site+developer)](https://git.io/typing-svg)
 
 I'm currently learning programming and developing my skills through projects and practice .
 
