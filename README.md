@@ -1,7 +1,7 @@
 # REDME.md
-<h2>Hi, I'm Ali taleb</h2>
+<h2> Ali Taleb</h2>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=I'm+Ali+Taleb;Owner+of+Alital+Company)](https://git.io/typing-svg)
 
 I'm currently learning programming and developing my skills through projects and practice.
 
