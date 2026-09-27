@@ -1,7 +1,7 @@
 # REDME.md
 Hi, I'm Alital
 
-💻 Programming & Web Development Student
+
 
 I'm currently learning programming and developing my skills through projects and practice.
 
