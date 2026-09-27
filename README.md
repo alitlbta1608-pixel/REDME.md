@@ -25,5 +25,12 @@ I'm currently learning programming and developing my skills through projects and
 
 
 ---
+<h2>🛠️ Languages and Tools</h2>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,git" />
+</p>
 ⭐ Thanks for visiting my profile!
+
+
+
