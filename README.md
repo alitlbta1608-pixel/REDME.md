@@ -6,7 +6,7 @@
 I'm currently learning programming and developing my skills through projects and practice .
 
 ---
-🛠️ Skills
+<h2>🛠️ Skills</h2>
 
 - 🐍 Python
 - 🌐 HTML
@@ -15,10 +15,10 @@ I'm currently learning programming and developing my skills through projects and
   
 ---
 
-🚀 Currently Learning
+<h2>🚀 Currently Learning</h2>
 
 ---
-📂 My Projects
+<h2>📂 My Projects</h2>
 
 -🤝 Collaborating on — HTML-CSS-template-3
 
